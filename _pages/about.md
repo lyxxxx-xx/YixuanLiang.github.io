@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year undergraduate student from Zhejiang University，I will recieve my master's degree on Mechanics in June,2025. My research interest includes multiphase flow, non-Newtonian fluid and rheology of complex fluid.
+I am a third year graduate student from [Institute of Fluid Engineering](http://saa.zju.edu.cn/fluids/), [Zhejiang University](https://www.zju.edu.cn/english/)，I expect to get my master's degree next June, therefore i am currently seeking for a PhD opportunity. My research interest includes multiphase flow, non-Newtonian fluid and rheology of complex fluid.
 
-I am very fortunate to be advised by [Prof. Dingyi Pan](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Zhejiang University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Dingyi Pan](https://scholar.google.com/citations?user=07CrM9QAAAAJ) from [School of Computer Science](https://cs.pku.edu.cn/), Zhejiang University. I was alson advised by [Prof. Zhen Jian](https://scholar.google.com/citations?user=CBafobUAAAAJ) from Xi'an Jiaotong University during my undergraduate period.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yixuan Liang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
+[Email](mailto:XX@stu.pku.edu.cn) / [Wechat](../images/wechat.jpg) 
+                    
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
