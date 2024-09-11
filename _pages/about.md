@@ -11,5 +11,5 @@ Hello~ I am a third year graduate student from [Institute of Fluid Engineering](
 
 Currently, I am very fortunate to be advised by [Prof. Dingyi Pan](https://scholar.google.com/citations?user=07CrM9QAAAAJ) from, Zhejiang University. I was also advised by [Prof. Zhen Jian](https://scholar.google.com/citations?user=CBafobUAAAAJ) from Xi'an Jiaotong University during my undergraduate period.
 
-You can find my CV here: [Yixuan Liang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Yixuan Liang's Curriculum Vitae](../assets/cvlyx.pdf).
 
