@@ -14,3 +14,4 @@ Currently, I am very fortunate to be advised by [Prof. Dingyi Pan](https://schol
 You can find my CV here: [Yixuan Liang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](yxliang22@gmail.com) / [Wechat](../images/wechat.jpg)
+<a href="yxliang22@gmail.com">Example mailto link</a>
